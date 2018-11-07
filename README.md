@@ -1,0 +1,2 @@
+# mjnote.github.io
+note
